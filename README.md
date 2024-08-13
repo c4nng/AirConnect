@@ -1,4 +1,4 @@
-# AirConnect
+# Air-Connect
 
 AirConnect is a Python application that allows users to scan available WiFi networks, connect to a selected network, and manage network connections with a user-friendly interface. It provides functionalities to display WiFi networks, connect to a selected network, and retry scanning if needed.
 
